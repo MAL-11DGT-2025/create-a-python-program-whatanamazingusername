@@ -9,7 +9,6 @@ print(f"Well then hello {name}")
     #Asks age, + uses name and age in sentance
 age = int(input("How old are you? ^^ \n"))
 print(f"Wow {name}, you're {age}?? ")
-
 if age >= 25:
     print("""OLD ASF LMAO you're NOT simga, you're NOT skibidi, you're NOT the goat. 
 I bet you don't even know what those words mean, L bozo \n""")
