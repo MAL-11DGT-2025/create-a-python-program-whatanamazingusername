@@ -1,11 +1,15 @@
     #Intro
 print("HEEEELLLLLLLOOOOOOO WOOOORRRLLLDDDD")
-print("My favourite colour is clear (Yes clear is a colour -_-)")
+print("My favourite colour is clear (Yes clear is a colour -_-) ")
 
     #Asks name and says hello
-name = input("Hello new person! What is your name? :o ")
+name = input("Hello new person! What is your name? :o \n ")
 print(f"Well then hello {name}")
 
     #Asks age, + uses name and age in sentance
-age = input("How old are you? ^^")
-print(f"Wow {name}, {age} already? Skill issue smh")
+age = int(input("How old are you? ^^ \n"))
+print(f"Wow {name}, you're {age}?? ")
+
+if age >= 25:
+    print("""OLD ASF LMAO you're NOT simga, you're NOT skibidi, you're NOT the goat. 
+I bet you don't even know what those words mean, L bozo \n""")
