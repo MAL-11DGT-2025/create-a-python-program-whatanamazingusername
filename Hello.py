@@ -13,5 +13,5 @@ if age >= 25:
     print("""OLD ASF LMAO you're NOT simga, you're NOT skibidi, you're NOT the goat, negative aura. 
 I bet you don't even know what those words mean, L bozo \n""")
 
-elif age >= 13 and age <=:19:
+elif age >= 13 and age <= 19:
     print("FR FR NO CAP one of the GOATS!! Dap me up my guy")
