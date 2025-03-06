@@ -21,3 +21,14 @@
 
 
 
+umbrella = False
+sunny = True
+
+if umbrella and sunny:
+    print("You think its going to rain?")
+elif not umbrella and sunny:
+    print("You think you dont need an umbrella")
+elif umbrella and not sunny:
+    print("It must be raining")
+elif umbrella and not sunny:
+    print("You should have brought an umbrella")
