@@ -1,4 +1,4 @@
-colours = ["red", "green", "blue", "purple", "bleen (blue green)", "clear"]
+# colours = ["red", "green", "blue", "purple", "bleen (blue green)", "clear"]
 
 # for i in colours:
 #     print(i)
@@ -12,3 +12,19 @@ colours = ["red", "green", "blue", "purple", "bleen (blue green)", "clear"]
 #        print("YELLOOOOOWWWWWW!!!!")
 #    else:
 #        print("Not yellow >:[")
+
+
+colours = ["red", "green", "blue", "purple", "bleen (blue green)", "clear"]
+
+print(colours)
+
+# adds then prints 3 new colours
+colours.append("bloop")
+print(colours)
+
+colours.append("pertangle")
+print(colours)
+
+colours.append("racist green")
+print(colours)
+
